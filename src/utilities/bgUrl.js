@@ -1,0 +1,1 @@
+export default (img) => ({ backgroundImage: 'url(' + require("@/assets/" + img) + ')' });
