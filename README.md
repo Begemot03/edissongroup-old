@@ -1,24 +1,2 @@
-# termopanel
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# О проекте
+Старая версия сайта компании по производству термопанелей и других фасадных материалов Edisson Group. Для разработки использовались **Vue.js** и **Tailwind**.
